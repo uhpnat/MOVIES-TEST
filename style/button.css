@@ -1,0 +1,94 @@
+
+/* CSS */
+.button-74+.button-74{
+    margin-left: 10px;
+}
+.button-74 {
+  background-color: #D92B04;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: #422800 4px 4px 0 0;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+ 
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-74:hover {
+  background-color: rgba(255, 255, 255, 0.9)B04;
+}
+
+.button-74:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+
+/* @media (min-width: 768px) { */
+  .button-74 {
+    min-width: 120px;
+  }
+  .btn-s{
+    font-weight: 500;
+    font-size: 14px;
+    padding: 0 14px;
+    line-height: 30px;
+}
+.btn-m{
+    font-weight: 400;
+    font-size: 16px;
+    padding: 0 24px;
+    line-height: 40px;
+}
+.btn-l{
+    font-weight: 500;
+    font-size: 28px;
+    padding: 0 64px;
+    line-height: 60px;
+}
+/* } */
+
+
+
+/* <button class="button-50" role="button">Button 50</button> */
+
+/* CSS */
+/* <button class="button-31" role="button">Button 31</button> */
+
+/* CSS */
+.button-31 {
+  background-color: #222;
+  /* border-radius: 4px; */
+  border-style: none;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Farfetch Basis","Helvetica Neue",Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin: 0;
+  max-width: none;
+  min-height: 44px;
+  min-width: 10px;
+  outline: none;
+  overflow: hidden;
+  padding: 9px 20px 8px;
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 100%;
+}
+
+.button-31:hover,
+.button-31:focus {
+  opacity: .75;
+}
